@@ -22,7 +22,7 @@ Mirnes</a></h1>
 <div align="center">
   <h2>Languages and Tools which I'm Learning and Using:</h2>
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="http://www.w3.org/2000/svg" width="50" height="50" alt="C++" />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fc_6132222&psig=AOvVaw0vyOXNIDcN2sr56KxEUP9r&ust=1701373679514000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjqpoD96YIDFQAAAAAdAAAAABAE" width="50" height="50" alt="C++" />
   </div>
 </div>
 
