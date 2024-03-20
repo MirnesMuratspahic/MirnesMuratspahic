@@ -26,7 +26,7 @@ Mirnes</a></h1>
     <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="50" height="50" alt="C#" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="50" height="50" alt=".NET"/>
     <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50" height="50" alt="Git" />
-    <img src="https://gist.github.com/Eduardokopp/9e7872ba3ca293ee1e71362dc5edbb4f#file-sql-server-icon-svg" width="50" height="50" alt="Git" />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fmssqlserver&psig=AOvVaw0h4bUrUtbrcLnbheQIKM8U&ust=1710983781087000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiv6bXVgYUDFQAAAAAdAAAAABAE" width="50" height="50" alt="Git" />
     
   </div>
 </div>
