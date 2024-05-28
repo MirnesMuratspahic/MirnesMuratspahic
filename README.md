@@ -27,7 +27,7 @@ Mirnes</a></h1>
     <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="50" height="50" alt=".NET"/></a>
     <a href="#"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50" height="50" alt="Git" /></a>
     <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="50" height="50" alt="Git" /></a>
-    <a href="#"><img src="https://camo.githubusercontent.com/1b4a9461723a3fe7ff224ca79da5c1a7217d489a0b7ce744e04cc8c580c450cd/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63342f556e6974795f323032312e737667" width="50" height="50" alt="Git" /></a>
+    <a href="#"><img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FctFrby%2FbtrZxIUyaV4%2FYCyZ3AakkTOnx6NTj6KkR1%2Fimg.jpg" width="50" height="50" alt="Git" /></a>
     
   </div>
 </div>
