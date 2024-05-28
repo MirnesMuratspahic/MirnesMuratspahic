@@ -27,7 +27,7 @@ Mirnes</a></h1>
     <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="50" height="50" alt=".NET"/></a>
     <a href="#"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50" height="50" alt="Git" /></a>
     <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="50" height="50" alt="Git" /></a>
-
+    <a href="#"><img src="[https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg](https://user-images.githubusercontent.com/61319844/156958898-1f821b0d-21a8-444c-bc01-3cc3f49a44e8.png)" width="50" height="50" alt="Git" /></a>
     
   </div>
 </div>
