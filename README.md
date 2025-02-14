@@ -27,7 +27,7 @@ Mirnes</a></h1>
     <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="50" height="50" alt=".NET"/></a>
     <a href="#"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50" height="50" alt="Git" /></a>
     <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="50" height="50" alt="Git" /></a>
-    <a href="#"><img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FctFrby%2FbtrZxIUyaV4%2FYCyZ3AakkTOnx6NTj6KkR1%2Fimg.jpg" width="100" height="50 alt="Git" /></a>
+    <a href="#"><img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FctFrby%2FbtrZxIUyaV4%2FYCyZ3AakkTOnx6NTj6KkR1%2Fimg.jpg" width="50" height="50 alt="Git" /></a>
     <a href="#"><img src="https://img.icons8.com/fluent/512/angularjs.png" width="100" height="50"/></a>
     
   </div>
